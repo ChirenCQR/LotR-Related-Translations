@@ -10,7 +10,7 @@
 如果发现仍有未汉化的部分，或者有可以优化的内容，欢迎在[这里](https://github.com/LWHK/LotR-Related-Translations/issues)反馈。**希望能尽可能积极地反馈。**
 
 ## Contributors丨贡献者
-Non-preference ranking丨排名不分先后<br>
+Non-preference ranking丨排名不分先后，以名字A-Z的顺序进行排序。<br>
 <br>
 ### LotR
 #### Language File
